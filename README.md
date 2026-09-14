@@ -73,7 +73,52 @@
   
 </div>
 
-###
+<h2 data-importer="text" align="left">Projetos</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎬 TP2-Cinet</h4>
+      <p>Sistema de gerenciamento de filmes e sessões de cinema com microsserviços, comunicação entre serviços, Docker e Kubernetes.</p>
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <br/><br/>
+      <a href="https://github.com/LeticiaFAAGomes/TP2-Cinet"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✈️ TP1-AeroNet</h4>
+      <p>Gerenciamento de voos e reservas aéreas com arquitetura de microsserviços, Spring Cloud, Eureka e API Gateway.</p>
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud"/>
+      <br/><br/>
+      <a href="https://github.com/LeticiaFAAGomes/TP1-AeroNet"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Criador-de-Roteiros</h4>
+      <p>Aplicação em Python e Flask que usa a IA do Google Gemini para transformar PDFs em roteiros de aula personalizados.</p>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/-Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+      <br/><br/>
+      <a href="https://github.com/LeticiaFAAGomes/Criador-de-Roteiros"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏋️ TP3-Health_Fitness</h4>
+      <p>Sistema de gestão de academia que evoluiu de monolito (Spring Boot + React) para microsserviços com Spring Cloud.</p>
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <br/><br/>
+      <a href="https://github.com/LeticiaFAAGomes/TP3-Health_Fitness"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
+    </td>
+  </tr>
+</table>
 
 <h2 data-importer="text" align="left">Contribuições</h2>
 
