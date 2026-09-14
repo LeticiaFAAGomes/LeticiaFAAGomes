@@ -1,10 +1,20 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=113&section=header&reversal=true&text=System.out.println(%22Ol%C3%A1!%20Eu%20sou%20a%20Let%C3%ADcia.%22)&fontSize=41&fontColor=EAA665&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=17110A"  />
 </div>
+<h3 data-importer="text" align="center">Estudante de Engenharia de Computação - Full Stack Developer</h3>
+<p data-importer="text" align="center">Do back-end ao front-end, aprendendo a construir aplicações completas e prontas para o mundo real.</p>
 
 <h2 data-importer="text" align="left">Sobre Mim</h2>
 
-<p data-importer="text" align="left">Estudante de Engenharia de Computação no Instituto Infnet, atualmente no 5º período, explorando o desenvolvimento full stack.<br><br>💻 Back-end com Java (Spring Boot), C# (.NET) e Python (Flask, FastAPI)<br>🎨 Front-end com HTML5, CSS3, SCSS e JavaScript (React)<br>🗄️ Bancos de dados relacionais (MySQL, PostgreSQL, SQLite) e NoSQL (MongoDB)<br>🎙️ Inglês avançado (C1)<br>🚀 Em busca de uma oportunidade para aplicar e expandir esse conhecimento na prática</p>
+<p data-importer="text" align="left">Estudante de Engenharia de Computação no Instituto Infnet (5º período), com foco no desenvolvimento full stack. Ao longo da formação, venho desenvolvendo:</p>
+
+- 💻 APIs e serviços back-end em Java (Spring Boot), C# (.NET) e Python (Flask, FastAPI)
+- 🎨 Interfaces web responsivas com React, HTML5, CSS3/SCSS e JavaScript
+- 🗄️ Modelagem e integração com bancos relacionais (MySQL, PostgreSQL, SQLite) e não relacionais (MongoDB)
+- 🔧 Versionamento e colaboração em projetos com Git e GitHub
+- 🎙️ Comunicação técnica em inglês avançado (C1), facilitando leitura de documentação e colaboração internacional
+
+<p data-importer="text" align="left">Minha base vem da construção de projetos full stack durante a graduação, e busco agora uma oportunidade para aplicar e expandir esse conhecimento na prática.</p>
 
 <h2 data-importer="text" align="left">Linguagens</h2>
 
@@ -64,6 +74,8 @@
 </div>
 
 ###
+
+<h2 data-importer="text" align="left">Contribuições</h2>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeticiaFAAGomes/LeticiaFAAGomes/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
