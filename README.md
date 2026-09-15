@@ -134,7 +134,7 @@
   <a href="https://www.linkedin.com/in/lefaag/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  title="LinkedIn"/>
   </a>
-  <a href="leticiafaag@outlook.com" target="_blank">
+  <a href="mailto:leticiafaag@outlook.com">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  title="Outlook"/>
   </a>
 </div>
