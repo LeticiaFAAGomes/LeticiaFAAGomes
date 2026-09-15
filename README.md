@@ -129,12 +129,12 @@
 </picture>
 
 <h2 data-importer="text" align="left">Contato</h2>
-
+<p>Para propostas profissionais ou colaborações, entre em contato pelos canais de contato listados a seguir.</p>
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/lefaag/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  title="LinkedIn"/>
   </a>
   <a href="leticiafaag@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  title="Outlook"/>
   </a>
 </div>
