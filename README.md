@@ -16,7 +16,7 @@
 
 <p data-importer="text" align="left">Minha base vem da construção de projetos full stack durante a graduação, e busco agora uma oportunidade para aplicar e expandir esse conhecimento na prática.</p>
 
-<h2 data-importer="text" align="left">Linguagens</h2>
+<h2 data-importer="text" align="left">Tecnologias</h2>
 
 <h3 data-importer="text" align="left">Back-end</h3>
 
